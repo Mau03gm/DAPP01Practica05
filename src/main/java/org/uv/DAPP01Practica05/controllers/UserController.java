@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import org.uv.DAPP01Practica05.user.User;
+import org.uv.DAPP01Practica05.entity.User;
 
 /**
  *

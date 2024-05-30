@@ -1,4 +1,4 @@
-package org.uv.DAPP01Practica05.user;
+package org.uv.DAPP01Practica05.entity;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;

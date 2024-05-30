@@ -13,7 +13,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import org.uv.DAPP01Practica05.user.UserRepository;
+import org.uv.DAPP01Practica05.entity.UserRepository;
 
 /**
  *

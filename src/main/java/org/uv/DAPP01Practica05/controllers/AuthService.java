@@ -12,9 +12,9 @@ import org.uv.DAPP01Practica05.requests.AuthResponse;
 import org.uv.DAPP01Practica05.requests.LoginRequest;
 import org.uv.DAPP01Practica05.requests.RegisterRequest;
 
-import org.uv.DAPP01Practica05.user.Role;
-import org.uv.DAPP01Practica05.user.User;
-import org.uv.DAPP01Practica05.user.UserRepository;
+import org.uv.DAPP01Practica05.entity.Role;
+import org.uv.DAPP01Practica05.entity.User;
+import org.uv.DAPP01Practica05.entity.UserRepository;
 
 /**
  *
